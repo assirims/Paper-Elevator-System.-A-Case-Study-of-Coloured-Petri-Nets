@@ -10,3 +10,6 @@ Formal Specification, Elevator System, Software Specification Benchmarks, Colour
 ##
 This work was published at the International Conference on Advanced Technology & SciencesAt: Konya, Turkey, September 01-03, 2016Volume: 3th International Conference, ICAT’16
 https://www.researchgate.net/publication/309620060_Elevator_System_A_Case_Study_of_Coloured_Petri_Nets
+
+##
+Copyright (c) 2016, Mohammed Assiri All rights reserved.
